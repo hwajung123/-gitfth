@@ -1,1 +1,1 @@
-f1.txt : oh
+koo
